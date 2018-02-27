@@ -1,0 +1,44 @@
+html {
+    background: url(https://scontent.fyip1-1.fna.fbcdn.net/v/t1.0-9/1931168_1055849841352_5230_n.jpg?oh=2f26536f4c62a0d1fea659dbb1692aab&oe=5B0A74FD);
+    
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
+    background-size: cover;
+ 
+  }
+ 
+  body {
+   
+    
+  
+    font-family:'Special Elite', cursive; ;
+  }
+  h1 {
+      padding-left: 500px;
+      font-size: 90px;
+      color: rgb(236, 10, 21);
+      margin-bottom: 0px;
+      margin-top: 20px;
+  }
+  H2{
+      padding-left: 450px;
+      font-size: 35px;
+      color: rgb(119, 2, 8);
+      margin-top: 5px;
+  }
+  h3 {
+      padding-left: 175px;
+      font-size: 35px;
+      color: rgb(236, 10, 21);
+      margin-top: 300px;
+      margin-bottom: 10px;
+  }
+  h4{
+      padding-left: 175px;
+      font-size: 30px;
+      color: rgb(119, 2, 8);
+      margin-top: 0px;
+  }
